@@ -32,13 +32,13 @@ body {
 /* title */
 header {}
 h1 {
-	padding: 30px;
+	padding: 40px;
 	margin-top: 0px;
 	
 	width: fit-content;
 	display: inline-block;
 	
-	background-color: #a954b8;
+	background-color: #a954b850;
 	
 	border-radius: 30px;
 	
@@ -55,7 +55,7 @@ h1 {
 #thought_box {
 	padding: 30px;
 	
-	background-color: #a954b8;
+	background-color: #a954b850;
 	
 	border-radius: 30px;
 	
