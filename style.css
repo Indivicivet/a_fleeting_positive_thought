@@ -3,11 +3,22 @@ body {
 	font-family: sans-serif;
 	font-size: 24pt;
 	text-align: center;
+	
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 15%;
+	margin: 0px;
+	
+	background-color: #a954b8;
 }
 
 /* title */
 header {}
-h1 {}
+h1 {
+	padding: 20px;
+	
+	background-color: #c887d4;
+}
 
 /* words of the title */
 #a {}
@@ -16,5 +27,9 @@ h1 {}
 #thought {}
 
 /* the thought itself */
-#thought_box {}
+#thought_box {
+	padding: 20px;
+	
+	background-color: #c887d4;
+}
 #thought_text {}
