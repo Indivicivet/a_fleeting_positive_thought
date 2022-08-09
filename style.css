@@ -49,7 +49,20 @@ h1 {
 /* words of the title */
 #a {}
 #fleeting {}
-#positive {}
+#positive {
+	background: linear-gradient(
+		-7deg,
+		#FFF,
+		#FFF,
+		#6F6,
+		#FFF,
+		#FFF
+	);
+	background-size: 100%;
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
 #thought {}
 
 /* the thought itself */
