@@ -33,6 +33,7 @@ body {
 /* title */
 header {}
 h1 {
+	/* todo :: give some consideration to mobile? :) */
 	padding: 60px;
 	padding-top: 40px;
 	padding-bottom: 40px;
