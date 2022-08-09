@@ -13,14 +13,29 @@ body {
 	align-items: center;
 	
 	background-color: #c887d4;
-	background-image: linear-gradient(
+	background: linear-gradient(
 		to right,
 		#b874d6,
 		#c887d4,
 		#ca90d6
 	);
+	background-size: 200% 200%;
+	animation: bg_gradient 5s ease infinite;
 	
 	color: #FFF;
+}
+
+/* I don't like this spatial animation; would rather modulate values directly */
+@keyframes bg_gradient {
+	0% {
+		background-position: 0% 0%;
+	}
+	50% {
+		background-position: 100% 0%;
+	}
+	100% {
+		background-position: 0% 0%;
+	}
 }
 
 /* debug :) */
