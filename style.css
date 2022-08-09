@@ -11,7 +11,8 @@ body {
 	display: flex;
 	align-items: center;
 	
-	background-color: #a954b8;
+	background-color: #c887d4;
+	color: #FFF;
 }
 
 /* debug :) */
@@ -27,7 +28,7 @@ h1 {
 	padding: 20px;
 	margin-top: 0px;
 	
-	background-color: #c887d4;
+	background-color: #a954b8;
 	
 	border-radius: 30px;
 }
@@ -42,7 +43,7 @@ h1 {
 #thought_box {
 	padding: 20px;
 	
-	background-color: #c887d4;
+	background-color: #a954b8;
 	
 	border-radius: 30px;
 }
