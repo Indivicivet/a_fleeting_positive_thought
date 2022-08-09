@@ -33,7 +33,10 @@ body {
 /* title */
 header {}
 h1 {
-	padding: 40px;
+	padding: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	
 	margin-top: 0px;
 	
 	width: fit-content;
@@ -54,7 +57,7 @@ h1 {
 
 /* the thought itself */
 #thought_box {
-	padding: 30px;
+	padding: 60px;
 	
 	background-color: #a954b850;
 	
