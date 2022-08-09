@@ -28,6 +28,8 @@ h1 {
 	margin-top: 0px;
 	
 	background-color: #c887d4;
+	
+	border-radius: 30px;
 }
 
 /* words of the title */
@@ -41,5 +43,7 @@ h1 {
 	padding: 20px;
 	
 	background-color: #c887d4;
+	
+	border-radius: 30px;
 }
 #thought_text {}
