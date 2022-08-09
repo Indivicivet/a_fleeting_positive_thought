@@ -8,6 +8,7 @@ body {
 	padding-right: 10%;
 	margin: 0px;
 	
+	/* todo :: this vcenter method doesn't work on firefox */
 	display: flex;
 	align-items: center;
 	
