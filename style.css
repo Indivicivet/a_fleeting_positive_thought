@@ -36,13 +36,20 @@ body {
 
 
 #decoration1 {
-	background: #FFF;
-	width: 50px;
-	height: 50px;
-	margin-left: 75%;
-	margin-top: -5%;
+	background-image: linear-gradient(
+		to bottom,
+		#FFFB,
+		#88F2
+	);
+	border: 2px solid #88F8;
+	
+	width: 70px;
+	height: 70px;
+	
 	position: absolute;
-	transform: scale(0.7, 1) rotate(45deg);
+	right: 10%;
+	
+	transform: rotate(10deg) scale(0.7, 1) rotate(45deg);
 }
 
 
