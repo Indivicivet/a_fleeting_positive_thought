@@ -30,6 +30,10 @@ body {
 }
 */
 
+#global_container{
+	width: 100%;
+}
+
 /* title */
 header {}
 h1 {
