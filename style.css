@@ -102,7 +102,9 @@ h1 {
 		;
 	
 }
-#thought_text {}
+#thought_text {
+	text-shadow: 0px 2px #000;
+}
 
 .deemphasize1 {
 	color: #DCD;
