@@ -63,6 +63,8 @@ h1 {
 /* the thought itself */
 #thought_box {
 	padding: 60px;
+	margin: auto;
+	width: fit-content;
 	
 	background-color: #a954b850;
 	
