@@ -42,7 +42,7 @@ body {
 	margin-left: 75%;
 	margin-top: -5%;
 	position: absolute;
-	transform: rotate(45deg);
+	transform: scale(0.7, 1) rotate(45deg);
 }
 
 
