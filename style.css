@@ -89,6 +89,14 @@ h1 {
 #thought {}
 
 /* the thought itself */
+#thought_box_outermost {
+	background-color: #a954b850;
+	
+	border-radius: 30px;
+	margin: auto;
+	width: fit-content;
+}
+
 #thought_box {
 	padding: 60px;
 	margin: auto;
