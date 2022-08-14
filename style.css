@@ -83,6 +83,14 @@ h1 {
 	font-weight: bold;
 }
 
+h1::before {
+	content: "✧";
+}
+
+h1::after {
+	content: "✧";
+}
+
 /* words of the title */
 #a {}
 #fleeting {}
