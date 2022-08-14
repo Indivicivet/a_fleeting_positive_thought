@@ -102,7 +102,12 @@ h1 {
 	margin: auto;
 	width: fit-content;
 	
-	background-color: #a954b850;
+	background-image: linear-gradient(
+		to right,
+		#0005,
+		#FFF5,
+		#0005
+	);
 	
 	border-radius: 30px;
 	
