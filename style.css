@@ -16,9 +16,11 @@ body {
 	background-color: #c887d4;
 	background-image: linear-gradient(
 		75deg,
-		#680086,
-		#FFF,
-		#403
+		#000 -5%,
+		#680086 0%,
+		#FFF 50%,
+		#403 100%,
+		#000 105%
 	);
 	
 	color: #FFF;
