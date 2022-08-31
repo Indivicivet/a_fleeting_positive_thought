@@ -105,8 +105,12 @@ h1::after {
 #fleeting {
 	transform: rotate(5deg);
 }
-#positive {}
-#thought {}
+#positive {
+	transform: translate(0px, -10px);
+}
+#thought {
+	transform: translate(0px, 5px);
+}
 
 /* the thought itself */
 #thought_box_outermost {
