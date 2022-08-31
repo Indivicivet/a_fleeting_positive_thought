@@ -61,7 +61,7 @@ header {}
 h1 {
 	/* todo :: give some consideration to mobile? :) */
 	padding: 60px;
-	padding-top: 40px;
+	padding-top: 25px;  /* with scaled A, looks better asymmetric values */
 	padding-bottom: 40px;
 	
 	margin-top: 0px;
