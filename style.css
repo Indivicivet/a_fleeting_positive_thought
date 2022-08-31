@@ -101,7 +101,9 @@ h1::after {
 .header_word {
 	display: inline-block;
 }
-#a {}
+#a {
+	font-size: 1.5em;
+}
 #fleeting {
 	transform: rotate(5deg);
 }
