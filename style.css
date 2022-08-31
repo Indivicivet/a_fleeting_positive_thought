@@ -106,11 +106,7 @@ h1::after {
 	width: fit-content;
 }
 
-#thought_box {
-	padding: 60px;
-	margin: auto;
-	width: fit-content;
-	
+.shine_me {
 	background-image: linear-gradient(
 		30deg,
 		#0000 0%,
@@ -118,6 +114,12 @@ h1::after {
 		#FBB5 80%,
 		#0000 100%
 	);
+}
+
+#thought_box {
+	padding: 60px;
+	margin: auto;
+	width: fit-content;
 	
 	border-radius: 30px;
 	
