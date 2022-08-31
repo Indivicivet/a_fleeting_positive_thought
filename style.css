@@ -98,9 +98,11 @@ h1::after {
 }
 
 /* words of the title */
+.header_word {
+	display: inline-block;
+}
 #a {}
 #fleeting {
-	display: inline-block;
 	transform: rotate(5deg);
 }
 #positive {}
